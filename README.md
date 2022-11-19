@@ -62,7 +62,11 @@
             <td width="80px" align="center">
             <span><strong>ESLint</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            </td>
             <td width="80px" align="center">
+            <span><strong>VSCode</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+            </td>
         </tr>
     </tbody>
 </table>
