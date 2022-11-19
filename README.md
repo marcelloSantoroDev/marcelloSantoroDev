@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/marcello-santoro-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcello-santoro-dev" /></a>
 <a href="https://www.instagram.com/marcellosonoro" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
-<a href="https://www.instagram.com/marcellosonoro" target="_blank"><img align="center" src="	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium-link"  /></a>
+<a href="https://marcellosonoro.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium-link"  /></a>
 </p>
 
 
