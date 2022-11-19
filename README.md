@@ -1,21 +1,18 @@
 <h1>Bem-vindas(os) ao meu GitHub!</h1>
 
 
-<h2>Sou escritor, compositor e ex-engenheiro de áudio. Atualmente estou estudando desenvolvimento web na <span>Trybe<a href="www.betrybe.com"/a></span></h2>
-
-- 📖 Até o momento, já aprendi **JavaScript, HTML, CSS, React, Redux, JavaScript ES6, DOM, Git**
+<h2>Sou escritor, compositor e ex-engenheiro de áudio. Atualmente estou estudando desenvolvimento web na <span><strong>Trybe</strong><a href="www.betrybe.com" target="blank"></span></h2>
 
 - 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcello-santoro-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcello-santoro-dev" /></a>
-<a href="https://www.instagram.com/marcellosonoro" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
 <a href="https://marcellosonoro.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium-link"  /></a>
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Com o que já trabalhei:</h3>
 <table width="320px">
     <tbody>
         <tr valign="top">
