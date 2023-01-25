@@ -9,7 +9,7 @@
 <li>Back-end - Cursando</li>
 </ul>
 
-- 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
+📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
