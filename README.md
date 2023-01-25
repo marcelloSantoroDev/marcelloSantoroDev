@@ -3,9 +3,11 @@
 
 <h3>Sou escritor, compositor e ex-engenheiro de áudio. Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h3>
 
-<h3>Fundamentos - Check</h3>
-<h3>Front-end - Check</h3>
-<h3>Back-end - cursando</h3>
+<ul>
+<li>Fundamentos - Check</li>
+<li>Front-end - Check</li>
+<li>Back-end - cursando</li>
+</ul>
 
 - 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
