@@ -1,7 +1,8 @@
 <h1>Boas vindas ao meu GitHub!</h1>
 
 
-<h3>Sou escritor, compositor e ex-engenheiro de áudio. Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h3>
+<h3>Sou escritor, compositor e ex-engenheiro de áudio.</h3>
+<h3>Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h3>
 
 <ul>
 <li>Fundamentos - Check</li>
