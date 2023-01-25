@@ -6,7 +6,7 @@
 <ul>
 <li>Fundamentos - Check</li>
 <li>Front-end - Check</li>
-<li>Back-end - cursando</li>
+<li>Back-end - Cursando</li>
 </ul>
 
 - 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
