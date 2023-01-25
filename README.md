@@ -1,7 +1,11 @@
 <h1>Boas vindas ao meu GitHub!</h1>
 
 
-<h2>Sou escritor, compositor e ex-engenheiro de áudio. Atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h2>
+<h3>Sou escritor, compositor e ex-engenheiro de áudio. Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h3>
+
+<h3>Fundamentos - Check</h3>
+<h3>Front-end - Check</h3>
+<h3>Back-end - cursando</h3>
 
 - 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
