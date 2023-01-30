@@ -1,5 +1,6 @@
 <h1>Boas vindas ao meu GitHub!</h1>
 
+![](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
 <h3>Sou escritor, compositor e ex-engenheiro de áudio.<br>Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h3>
 
