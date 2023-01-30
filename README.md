@@ -72,7 +72,9 @@
             <td width="80px" align="center">
             <span><strong>VSCode</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-            </td>
+        </tr>
+        <tr valign="top">
+             </td>
              <td width="80px" align="center">
                  <span><strong>MySql</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
