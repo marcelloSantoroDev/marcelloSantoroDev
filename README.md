@@ -73,6 +73,10 @@
             <span><strong>VSCode</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
             </td>
+             <td width="80px" align="center">
+                 <span><strong>MySql</strong><span><br>
+            <img height="32pc" src="http://www.w3.org/2000/svg">
+            </td>
         </tr>
     </tbody>
 </table>
