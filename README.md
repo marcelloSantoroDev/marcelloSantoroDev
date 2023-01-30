@@ -75,7 +75,7 @@
             </td>
              <td width="80px" align="center">
                  <span><strong>MySql</strong><span><br>
-            <img height="32pc" src="http://www.w3.org/2000/svg">
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
             </td>
         </tr>
     </tbody>
