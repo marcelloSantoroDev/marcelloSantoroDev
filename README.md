@@ -78,6 +78,11 @@
                  <span><strong>MySQL</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
             </td>
+            </td>
+             <td width="80px" align="center">
+                 <span><strong>Node.js</strong><span><br>
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            </td>
         </tr>
     </tbody>
 </table>
