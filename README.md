@@ -83,6 +83,10 @@
                  <span><strong>Node.js</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             </td>
+            <td width="80px" align="center">
+                 <span><strong>Express</strong><span><br>
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+            </td>
         </tr>
     </tbody>
 </table>
