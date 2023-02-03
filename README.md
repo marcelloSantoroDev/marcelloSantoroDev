@@ -1,14 +1,12 @@
-<h1>Boas vindas ao meu GitHub!</h1>
+# Boas vindas ao meu GitHub!
 
 ![](https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif)
 
-<h3>Sou escritor, compositor e ex-engenheiro de áudio.<br>Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com" target="blank">Trybe</a></h3>
+## Sou escritor, compositor e ex-engenheiro de áudio.<br>Atualmente estudando desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
 
-<ul>
-<li>Fundamentos - Check</li>
-<li>Front-end - Check</li>
-<li>Back-end - Cursando</li>
-</ul>
+- Fundamentos ✔️
+- Front-end ✔️
+- Back-end ⏳
 
 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
