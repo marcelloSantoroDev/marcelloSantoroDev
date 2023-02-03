@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif)
 
-### Sou escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
+### Sou um escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
 
 - Fundamentos ✔️
 - Front-end ✔️
