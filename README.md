@@ -87,7 +87,7 @@
                  <span><strong>Express</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
             </td>
-           <td width="80px" align="center">
+                      <td width="80px" align="center">
                  <span><strong>Chai</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
             </td>
