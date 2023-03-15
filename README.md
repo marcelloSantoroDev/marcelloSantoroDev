@@ -92,6 +92,18 @@
             <img height="32pc" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
             </td>
         </tr>
+         <tr valign="top">
+             </td>
+             <td width="80px" align="center">
+                 <span><strong>Sequelize</strong><span><br>
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+            </td>
+            </td>
+             <td width="80px" align="center">
+                 <span><strong>TypeScript</strong><span><br>
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+            </td>
+        </tr>
     </tbody>
 </table>
 
