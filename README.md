@@ -103,6 +103,11 @@
                  <span><strong>TypeScript</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
             </td>
+            </td>
+             <td width="80px" align="center">
+                 <span><strong>Json</strong><span><br>
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
+            </td>
         </tr>
     </tbody>
 </table>
