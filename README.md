@@ -8,7 +8,7 @@
 - Front-end ✔️
 - Back-end ⏳
 
-### Sou apaixonado por qualquer tipo de criação, inovação, revolução! Me interesso por pessoas, culturas e pelo futuro.
+### Sou apaixonado por qualquer tipo de criação, inovação, revolução, aprendizado! Me interesso por pessoas, culturas, tecnologias e pelo tempo.
 
 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
