@@ -13,8 +13,7 @@
 
 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
 
-## I'm a writer, composer, and former audio engineer from São Paulo.<br>Currently studying web development at [Trybe](https://www.betrybe.com)
-## Passionate about any kind of creation, innovation, revolution, learning! Interested in people, cultures, technologies, and time.
+# I'm a writer, composer, and former audio engineer from São Paulo.<br>Currently studying web development at [Trybe](https://www.betrybe.com). Passionate about any kind of creation, innovation, revolution, learning! Interested in people, cultures, technologies, and time.
 📫 Contact me at **marcelloaltermundi@gmail.com**
 
 
