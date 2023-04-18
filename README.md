@@ -4,21 +4,22 @@
 ![](https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif)
 
 ### Sou um escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
-### I'm a writer, composer, and former audio engineer from São Paulo.<br>Currently studying web development at [Trybe](https://www.betrybe.com)
 
 - Fundamentos ✔️
 - Front-end ✔️
 - Back-end ⏳
 
 ### Apaixonado por qualquer tipo de criação, inovação, revolução, aprendizado! Me interesso por pessoas, culturas, tecnologias e pelo tempo.
-### Passionate about any kind of creation, innovation, revolution, learning! Interested in people, cultures, technologies, and time.
 
 📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
+
+## I'm a writer, composer, and former audio engineer from São Paulo.<br>Currently studying web development at [Trybe](https://www.betrybe.com)
+## Passionate about any kind of creation, innovation, revolution, learning! Interested in people, cultures, technologies, and time.
 📫 Contact me at **marcelloaltermundi@gmail.com**
 
 
 <h3 align="left">Minhas redes:</h3>
-<h3 align="left">My socials:</h3>
+<h2 align="left">My socials:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/marcello-santoro-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcello-santoro-dev" /></a>
 <a href="https://marcellosonoro.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium-link"  /></a>
@@ -26,7 +27,7 @@
 
 
 <h3 align="left">Com o que já trabalhei:</h3>
-<h3 align="left">With what i have worked:</h3>
+<h2 align="left">With what i have worked:</h2>
 <table width="320px">
     <tbody>
         <tr valign="top">
