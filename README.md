@@ -1,5 +1,4 @@
-### Boas vindas ao meu GitHub!
-### Welcome to my GitHub!
+### Boas vindas ao meu GitHub! / Welcome to my GitHub!
 
 Sou um escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
 
@@ -54,8 +53,6 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Redux</strong></span><br>
             <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
@@ -64,6 +61,8 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
             <span><strong>Figma</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
             </td>
+        </tr>
+        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>ESLint</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
@@ -89,9 +88,6 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
                  <span><strong>Chai</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
             </td>
-        </tr>
-         <tr valign="top">
-             </td>
              <td width="80px" align="center">
                  <span><strong>Sequelize</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
