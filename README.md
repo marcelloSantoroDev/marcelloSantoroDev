@@ -39,8 +39,6 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Jest</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
@@ -73,9 +71,7 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
             <td width="80px" align="center">
             <span><strong>VSCode</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-        </tr>
-        <tr valign="top">
-             </td>
+            </td>
              <td width="80px" align="center">
                  <span><strong>MySQL</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
