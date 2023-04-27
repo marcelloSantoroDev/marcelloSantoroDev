@@ -1,20 +1,19 @@
-# Boas vindas ao meu GitHub!
-# Welcome to my GitHub!
+### Boas vindas ao meu GitHub!
+### Welcome to my GitHub!
 
-### Sou um escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
+Sou um escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
 
-- Fundamentos ✔️
+- Fundamentos / Fundamentals ✔️
 - Front-end ✔️
-- Back-end ⏳
+- Back-end ✔️
+- Ciência da computação / Computer science ⏳
 
-### Apaixonado por qualquer tipo de criação, inovação, revolução, aprendizado! Me interesso por pessoas, culturas, tecnologias e pelo tempo.
+Apaixonado por qualquer tipo de criação, inovação, revolução, aprendizado! Me interesso por pessoas, culturas, tecnologias e pelo tempo.
 
-📫 Entre em contato comigo por **marcelloaltermundi@gmail.com**
+I'm a writer, composer, and former audio engineer from São Paulo.<br>Currently studying web development at [Trybe](https://www.betrybe.com).
+Passionate about any kind of creation, innovation, revolution, learning! Interested in people, cultures, technologies, and time.
 
-#### I'm a writer, composer, and former audio engineer from São Paulo.<br>Currently studying web development at [Trybe](https://www.betrybe.com). #### Passionate about any kind of creation, innovation, revolution, learning! Interested in people, cultures, technologies, and time.
-
-📫 Contact me at **marcelloaltermundi@gmail.com**
-
+📫 Entre em contato comigo por / contact me at **marcelloaltermundi@gmail.com**
 
 <h3 align="left">Minhas redes:</h3>
 <h2 align="left">My socials:</h2>
