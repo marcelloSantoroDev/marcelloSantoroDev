@@ -1,6 +1,6 @@
 ### Boas vindas ao meu GitHub! / Welcome to my GitHub!
 
-Sou um desenvolvedor full stack, escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com) 🚀
+Sou um desenvolvedor full stack, escritor, compositor e ex-engenheiro de áudio de São Paulo.<br>Atualmente estudo na [Trybe](https://www.betrybe.com) 🚀
 
 - Fundamentos / Fundamentals ✔️
 - Front-end ✔️
