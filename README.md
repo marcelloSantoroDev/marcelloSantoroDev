@@ -15,16 +15,11 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
 
 📫 Entre em contato comigo por / contact me at **marcelloaltermundi@gmail.com**
 
-<h3 align="left">Minhas redes:</h3>
-<h2 align="left">My socials:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/marcello-santoro-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcello-santoro-dev" /></a>
 <a href="https://marcellosonoro.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium-link"  /></a>
 </p>
 
-
-<h3 align="left">Com o que já trabalhei:</h3>
-<h2 align="left">With what i have worked:</h2>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -114,6 +109,10 @@ Passionate about any kind of creation, innovation, revolution, learning! Interes
              <td width="80px" align="center">
                  <span><strong>JSON</strong><span><br>
             <img height="32pc" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
+            </td>
+            <td width="80px" align="center">
+                 <span><strong>MongoDB</strong><span><br>
+            <img height="32pc" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
             </td>
         </tr>
     </tbody>
