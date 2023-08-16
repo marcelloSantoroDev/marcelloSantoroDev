@@ -1,6 +1,4 @@
-### Marcello Santoro - Full Stack Developer
-
-Desenvolvedor Web Full Stack.
+### Marcello Santoro - Full Stack Web Developer
 
 Estudei na trybe (www.betrybe.com), onde aprendi Fundamentos do Desenvolvimento Web, Front-End e Back-end, entrando em contato com linguagens e tecnologias, tais como HTML, CSS, JavaScript Vanilla, DOM, JavaScript ES6, React.js, Redux, React Hooks, Jest, RTL, Figma, mySQL, Node.js, Sequelize, TypeScript, POO, SOLID, NoSQL, mondoDB, comprovando minha proficiência por meio de projetos que podem ser encontrados neste perfil.
 
