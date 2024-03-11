@@ -2,7 +2,7 @@
 
 Estudei na trybe (www.betrybe.com), onde aprendi Fundamentos do Desenvolvimento Web, Front-End e Back-end, entrando em contato com linguagens e tecnologias, tais como HTML, CSS, JavaScript Vanilla, DOM, JavaScript ES6, React.js, Redux, React Hooks, Jest, RTL, Figma, mySQL, Node.js, Sequelize, TypeScript, POO, SOLID, NoSQL, mondoDB, comprovando minha proficiência por meio de projetos que podem ser encontrados neste perfil.
 
-Estou cursando tecnólogo em Analise e Desenvolvimento de sistemas pela Descomplica Faculdade Digital. (https://descomplica.com.br/faculdade/)Desenvolvedor Web Full Stack.
+Estou cursando tecnólogo em Analise e Desenvolvimento de sistemas pela Descomplica Faculdade Digital. (https://descomplica.com.br/faculdade/)
 
 -----------------------------------------------------
 
